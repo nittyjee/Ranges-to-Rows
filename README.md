@@ -1,6 +1,14 @@
+# Ranges to Rows
 This is a set of tools that solves the universal problem of showing all the stuff there was in a place over time.
 
+___
+
 For example, you might have an address with a bunch of apartments and offices over time. You want to see a list of everything there in 1907. With this, you can get all that information for that address at that time.
+
+![Alt text](what_was_here.png?raw=true "Title")
+
+
+
  
 The tools are under the examples below. So far the tools are spreadsheets with buttons, and codes and queries that can be used with other buttons. The goal is to make tools where you can have a program take tables and choose what stuff you want to know there was in a place at a time you want to know it.
  
