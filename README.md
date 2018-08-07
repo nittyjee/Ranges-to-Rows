@@ -112,11 +112,14 @@ Note - for sequencing, there may be an option to go backwards or forwards, or to
 
 
 
+___
+___
+___
 
 
 
 
-
+# PREVIOUS
 # Ranges to Rows
 This is a tool to change a table with overlapping ranges to single rows for each overlap. It was developed for overlapping time columns, but can be used for a variety of applications.
 
