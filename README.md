@@ -35,9 +35,8 @@ For both examples, we'll use this place on a street:
 Example 1:
 Places with addresses and who's there.
 
-For this we have 3 tools - 2 queries [gerrymandering, ollie maps] and a really nifty spreadsheet tool [google sheet] where you can click a button and spit out a table.
+![Alt text](example1.png?raw=true "Title")
 
-A timeline of who's at those places, when they were there:
 
 This could generate the following tables, or the tables could generate the timeline.
  
@@ -45,12 +44,18 @@ This could generate the following tables, or the tables could generate the timel
 
 Table 1:
 
+![Alt text](table1_example1.png?raw=true "Title")
+
+
 This is a simple table with all the dates filled in.
 
 For generating a table from a timeline like this, with merged cells, a nifty tool was made that creates a table like Table 1 below:
 [google sheet]
 
 Table 2:
+
+![Alt text](table2_example1.png?raw=true "Title")
+
 Some cells don't have dates.
 The rest of the dates have to be filled in.
 
@@ -59,7 +64,10 @@ For this there is a tool that fills in the rest:
 
 Table 3:
 This is a table where everything that's in a place is showed at the same time.
- 
+
+![Alt text](table3_example1.png?raw=true "Title")
+
+
 Here's a tool to do this:
 []
 
@@ -67,11 +75,19 @@ Here's a tool to do this:
 Example 2:
 Places with addresses and how much money the places are worth.
 
+![Alt text](example2.png?raw=true "Title")
+
 Here is a timeline of those places and what's there, and how much money they were worth in different years:
  
 This is a resulting table. It shows how much the places were worth over known dates. It can be used to create the timeline as well.
 
+![Alt text](table1_example2.png?raw=true "Title")
+
+
 This is another table that fills merges things further. This can be used to create a timeline as well.
+
+![Alt text](table2_example_2.png?raw=true "Title")
+
  
 Here's a tool to do this one:
 [chandler]
