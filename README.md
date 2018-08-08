@@ -47,7 +47,7 @@ ___
 This is a simple table with all the dates filled in.
 
 
-<img src="table1_example1.png" width="500">
+<img src="table1_example1.png" width="600">
 
 
 
@@ -60,7 +60,7 @@ ___
 Some cells don't have dates.
 The rest of the dates have to be filled in.
 
-<img src="table2_example1.png" width="500">
+<img src="table2_example1.png" width="600">
 
 
 For this there is a tool that fills in the rest:
@@ -71,7 +71,7 @@ ___
 
 This is a table where everything that's in a place is showed at the same time.
 
-<img src="table3_example1.png" width="500">
+<img src="table3_example1.png" width="700">
 
 Here's a tool to do this:
 []
