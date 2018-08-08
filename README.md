@@ -5,10 +5,7 @@ ___
 
 For example, you might have an address with a bunch of apartments and offices over time. You want to see a list of everything there in 1907. With this, you can get all that information for that address at that time.
 
-![Alt text](what_was_here.png?raw=true "Title")
-
-
-
+<img src="what_was_here.png" width="500">
  
 The tools are under the examples below. So far the tools are spreadsheets with buttons, and codes and queries that can be used with other buttons. The goal is to make tools where you can have a program take tables and choose what stuff you want to know there was in a place at a time you want to know it.
  
@@ -35,6 +32,7 @@ For both examples, we'll use this place on a street:
 Example 1:
 Places with addresses and who's there.
 
+
 ![Alt text](example1.png?raw=true "Title")
 
 
@@ -44,7 +42,7 @@ This could generate the following tables, or the tables could generate the timel
 
 Table 1:
 
-![Alt text](table1_example1.png?raw=true "Title")
+<img src="table1_example1.png" width="500">
 
 
 This is a simple table with all the dates filled in.
@@ -54,7 +52,8 @@ For generating a table from a timeline like this, with merged cells, a nifty too
 
 Table 2:
 
-![Alt text](table2_example1.png?raw=true "Title")
+<img src="table2_example1.png" width="500">
+
 
 Some cells don't have dates.
 The rest of the dates have to be filled in.
@@ -65,8 +64,7 @@ For this there is a tool that fills in the rest:
 Table 3:
 This is a table where everything that's in a place is showed at the same time.
 
-![Alt text](table3_example1.png?raw=true "Title")
-
+<img src="table3_example1.png" width="500">
 
 Here's a tool to do this:
 []
@@ -81,12 +79,13 @@ Here is a timeline of those places and what's there, and how much money they wer
  
 This is a resulting table. It shows how much the places were worth over known dates. It can be used to create the timeline as well.
 
-![Alt text](table1_example2.png?raw=true "Title")
+<img src="table1_example2.png" width="500">
 
 
 This is another table that fills merges things further. This can be used to create a timeline as well.
 
-![Alt text](table2_example_2.png?raw=true "Title")
+<img src="table2_example_2.png" width="500">
+
 
  
 Here's a tool to do this one:
