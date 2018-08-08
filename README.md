@@ -11,12 +11,12 @@ The tools are under the examples below. So far the tools are spreadsheets with b
  
 ## So how does this work?
 
-### For this, you have both:
+### There are both:
 * 1 or more columns with numbers
 * 1 or more columns with stuff or numbers
 
 
-### This will be either or both of 2 possibilities:
+### There are either or both of 2 possibilities:
 * Columns with number ranges.
 * Columns with some numbers where the rest need to be filled in.
 
@@ -42,7 +42,10 @@ ___
 This could generate the following tables, or the tables could generate the timeline.
  
 ___
-### Table 1:
+### Table 1 (for example 1)
+
+This is a simple table with all the dates filled in.
+
 
 <img src="table1_example1.png" width="500">
 
@@ -53,20 +56,19 @@ For generating a table from a timeline like this, with merged cells, a nifty too
 [google sheet]
 
 ___
-### Table 2:
+### Table 2 (for example 1)
+
+Some cells don't have dates.
+The rest of the dates have to be filled in.
 
 <img src="table2_example1.png" width="500">
 
-
-Some cells don't have dates.
-
-The rest of the dates have to be filled in.
 
 For this there is a tool that fills in the rest:
 [ollie maps]
 
 ___
-### Table 3:
+### Table 3 (for example 1)
 
 This is a table where everything that's in a place is showed at the same time.
 
@@ -77,20 +79,23 @@ Here's a tool to do this:
 
 ___
 ___
-### Example 2:
-
-Places with addresses and how much money the places are worth.
-
-![Alt text](example2.png?raw=true "Title")
+### Example 2: Places with addresses and how much money the places are worth.
 
 Here is a timeline of those places and what's there, and how much money they were worth in different years:
 
+![Alt text](example2.png?raw=true "Title")
+
+
 ___
+### Table 1 (for example 2)
+
 This is a resulting table. It shows how much the places were worth over known dates. It can be used to create the timeline as well.
 
 <img src="table1_example2.png" width="500">
 
 ___
+### Table 2 (for example 2)
+
 This is another table that fills merges things further. This can be used to create a timeline as well.
 
 <img src="table2_example_2.png" width="500">
