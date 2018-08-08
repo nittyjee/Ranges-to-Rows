@@ -67,9 +67,13 @@ The rest of the dates have to be filled in.
 
 <img src="table2_example1.png" width="600">
 
+___
+ 
+### Tool for Table 2 (for example 1)
 
 For this there is a tool that fills in the rest:
-[ollie maps]
+
+[Tool to Sequence Number Ranges](https://github.com/nittyjee/Ranges-to-Rows/blob/master/Tool%20to%20Sequence%20Number%20Ranges.md) 
 
 ___
 ### Table 3 (for example 1)
