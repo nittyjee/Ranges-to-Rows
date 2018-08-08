@@ -49,10 +49,15 @@ This is a simple table with all the dates filled in.
 
 <img src="table1_example1.png" width="600">
 
+___
+ 
+### Tool for Table 1 (for example 1)
+
+For generating a table from a timeline like this, with merged cells, a nifty tool was made that created, using google sheets. It has a separate github repo altogether:
+
+[Timeline to Table](https://github.com/nittyjee/Timeline-to-Table/blob/master/README.md) 
 
 
-For generating a table from a timeline like this, with merged cells, a nifty tool was made that creates a table like Table 1 below:
-[google sheet]
 
 ___
 ### Table 2 (for example 1)
