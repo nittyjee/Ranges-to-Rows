@@ -7,8 +7,8 @@ For example, you might have an address with a bunch of apartments and offices ov
 
 <img src="what_was_here.png" width="500">
  
-The tools are under the examples below. So far the tools are spreadsheets with buttons, and codes and queries that can be used with other buttons. The goal is to make tools where you can have a program take tables and choose what stuff you want to know there was in a place at a time you want to know it.
- 
+The tools are under the examples below. So far the tools are spreadsheets with buttons, and codes and queries that can be used with other buttons. The goal is to make tools where you can have a program take tables and choose what stuff you want to know there was in a place at a time you want to know it. Right now the tools show everything for a places you want, and eventually there will also be buttons and codes that will get the the stuff you want directly, without having to first get all the stuff at once.
+
 ## So how does this work?
 
 ### There are both:
