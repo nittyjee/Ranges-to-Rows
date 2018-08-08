@@ -39,7 +39,7 @@ ___
 ![Alt text](example1.png?raw=true "Title")
 
 
-This could generate the following tables, or the tables could generate the timeline.
+This timeline could generate the following tables, or the tables could generate the timeline.
  
 ___
 ### Table 1 (for example 1)
@@ -50,7 +50,6 @@ This is a simple table with all the dates filled in.
 <img src="table1_example1.png" width="500">
 
 
-This is a simple table with all the dates filled in.
 
 For generating a table from a timeline like this, with merged cells, a nifty tool was made that creates a table like Table 1 below:
 [google sheet]
@@ -81,11 +80,10 @@ ___
 ___
 ### Example 2: Places with addresses and how much money the places are worth.
 
-Here is a timeline of those places and what's there, and how much money they were worth in different years:
 
 ![Alt text](example2.png?raw=true "Title")
 
-
+This timeline could generate the following tables, or the tables could generate the timeline.
 ___
 ### Table 1 (for example 2)
 
@@ -100,15 +98,16 @@ This is another table that fills merges things further. This can be used to crea
 
 <img src="table2_example_2.png" width="500">
 
+*Note* - For sequencing, there should be an option to go backwards or forwards, or to leave out ranges at the beginning or ends of rows.
 
  
 Here's a tool to do this one:
 [chandler]
 
 
-
-Both the above tables could be one table, and that would be the best option. That will come later.
+___
+Both the above tables could be one table, and that would be the best option.
+That will come later.
 
  
-Note - for sequencing, there may be an option to go backwards or forwards, or to leave out ranges at the beginning or ends of rows.
 
