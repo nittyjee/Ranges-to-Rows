@@ -100,14 +100,12 @@ This is another table that fills merges things further. This can be used to crea
 
 *Note* - For sequencing, there should be an option to go backwards or forwards, or to leave out ranges at the beginning or ends of rows.
 
- 
-Here's a tool for Example 2:
-
-[Tool for 2 Number Ranges](https://github.com/nittyjee/Ranges-to-Rows/blob/master/2%20Number%20Ranges.md)
-
-___
 Both the above tables could be one table, and that would be the best option.
 That will come later.
 
+___
  
+### Tool for Example 2:
+
+[Tool for 2 Number Ranges](https://github.com/nittyjee/Ranges-to-Rows/blob/master/2%20Number%20Ranges.md) 
 
