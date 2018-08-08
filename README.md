@@ -9,27 +9,37 @@ For example, you might have an address with a bunch of apartments and offices ov
  
 The tools are under the examples below. So far the tools are spreadsheets with buttons, and codes and queries that can be used with other buttons. The goal is to make tools where you can have a program take tables and choose what stuff you want to know there was in a place at a time you want to know it.
  
-So how does this work?
+## So how does this work?
 
 For this, you have both:
+
 *1 or more columns with numbers
+
 *1 or more columns with stuff or numbers
 
+
 This will be either or both of 2 possibilities:
+
 *Columns with number ranges.
+
 *Columns with some numbers where the rest need to be filled in.
 
 
 
 We'll use 2 examples:
+
 *Places with addresses and who's there.
+
 *Places with addresses and how much money the places are worth.
 
 For both examples, we'll use this place on a street:
+
 *Address: 500
+
 *Address 2: Unit 1
 
 Example 1:
+
 Places with addresses and who's there.
 
 
@@ -56,12 +66,14 @@ Table 2:
 
 
 Some cells don't have dates.
+
 The rest of the dates have to be filled in.
 
 For this there is a tool that fills in the rest:
 [ollie maps]
 
 Table 3:
+
 This is a table where everything that's in a place is showed at the same time.
 
 <img src="table3_example1.png" width="500">
@@ -71,6 +83,7 @@ Here's a tool to do this:
 
 
 Example 2:
+
 Places with addresses and how much money the places are worth.
 
 ![Alt text](example2.png?raw=true "Title")
@@ -98,35 +111,3 @@ Both the above tables could be one table, and that would be the best option. Tha
  
 Note - for sequencing, there may be an option to go backwards or forwards, or to leave out ranges at the beginning or ends of rows.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-___
-___
-___
-
-
-
-
-# PREVIOUS
-# Ranges to Rows
-This is a tool to change a table with overlapping ranges to single rows for each overlap. It was developed for overlapping time columns, but can be used for a variety of applications.
-
-Here's an example:
-
-
-![Alt text](congressperson_district_example.png?raw=true "Title")
-
-
-
-![Alt text](table_result_1.png?raw=true "Title")
