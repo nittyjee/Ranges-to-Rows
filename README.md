@@ -12,35 +12,24 @@ The tools are under the examples below. So far the tools are spreadsheets with b
 ## So how does this work?
 
 For this, you have both:
-
-*1 or more columns with numbers
-
-*1 or more columns with stuff or numbers
+* 1 or more columns with numbers
+* 1 or more columns with stuff or numbers
 
 
 This will be either or both of 2 possibilities:
-
-*Columns with number ranges.
-
-*Columns with some numbers where the rest need to be filled in.
-
-
+* Columns with number ranges.
+* Columns with some numbers where the rest need to be filled in.
 
 We'll use 2 examples:
-
-*Places with addresses and who's there.
-
-*Places with addresses and how much money the places are worth.
+* Places with addresses and who's there.
+* Places with addresses and how much money the places are worth.
 
 For both examples, we'll use this place on a street:
+* Address: 500
+* Address 2: Unit 1
 
-*Address: 500
 
-*Address 2: Unit 1
-
-Example 1:
-
-Places with addresses and who's there.
+### Example 1: Places with addresses and who's there.
 
 
 ![Alt text](example1.png?raw=true "Title")
