@@ -82,8 +82,13 @@ This is a table where everything that's in a place is showed at the same time.
 
 <img src="table3_example1.png" width="700">
 
-Here's a tool to do this:
-[]
+___
+ 
+### Tool for Table 3 (for example 1)
+
+Here's a tool to do this
+
+https://github.com/nittyjee/Ranges-to-Rows/blob/master/Rows%20to%20Columns.md
 
 ___
 ___
